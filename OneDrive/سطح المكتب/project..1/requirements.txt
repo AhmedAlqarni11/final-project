@@ -1,0 +1,14 @@
+langchain
+gradio
+openai
+yt-dlp
+whisper
+pinecone-client
+chromadb
+langsmith
+python-dotenv
+requests
+pandas
+scipy
+pytest
+
